@@ -33,12 +33,6 @@ A folder containing blank copies of all practice problem sets is **[in Google Dr
 
 **Please make a copy of the whole folder and save it to your Drive**. 
 
-Please append your name to the name of the folder (e.g. "PYTH122_JohnSmith"). Please share your copy of the folder (with edit access) with your Instructor and your IA. 
+Please append your name to the name of the folder (e.g. "PYTH225_JohnSmith"). Please share your copy of the folder (with edit access) with your Instructor and your IA. 
 
-**This is where you will keep your answers to all the practice problems and where your IA will give feedback on your code.**
-
-#### Class Notes and in-class PSET Solutions
-
-[This folder](https://drive.google.com/drive/folders/1kZ9Al-dbHMrTF3YvlE3c1GdB8sl_j9y_?usp=sharing) contains **class notes** from Taq's computer.
-
-[This folder](https://drive.google.com/drive/folders/10THV__aqm0lpncrU42OTjbC1y1jZSrhJ?usp=sharing) contains **class PSET notes** from Taq's computer.
+**This is where you will keep your answers to all the practice problems**
