@@ -1,0 +1,23 @@
+{
+	"links": [{
+		"name": "Slack",
+		"url": "http://pyth225.slack.com/",
+        "desc": "Slack is our online classroom - we will share class notes, videos, lectures, etc here. ➡️"
+	}, {
+		"name": "Course Tracker",
+		"url": "https://docs.google.com/spreadsheets/d/1ofpYi23CumN3uIXIh95ZLCkfVYV4VdMTzKMmcW2bl8k/edit#gid=706775580",
+        "desc": "For instructor use only"
+	}, {
+        "name": "PSETs",
+        "url": "https://drive.google.com/drive/folders/1u2J8MY-UznscVwXQtBwFcP32PMyLFf3n?usp=sharing",
+        "desc": "A folder containing blank copies of all practice problem sets"
+    }, {
+        "name": "Class Notes",
+        "url": "https://drive.google.com/drive/folders/1H4M2HBy_LEFcS0xdLibxoBshUpaXV86Y?usp=sharing",
+        "desc": "Class notes from Taq's machine"
+    }, {
+        "name": "PSET Answers",
+        "url": "https://drive.google.com/drive/folders/1mIyLJU3rC0PAR17ytWFrlDe1dBxztPCL?usp=sharing",
+        "desc": "Completed in-class pset problems"
+    }]
+}
