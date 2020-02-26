@@ -14,11 +14,11 @@ DM both **your instructor and IA** in the same message with your Github repo URL
 
 ### **Where are all the practice problems?**
 
-You can find a link to the practice problem source files and how to use them on the [Admin Info](https://mottaquikarim.github.io/pycontent/#in/intro/admin_info) page under the section named "Practice Problem Source Files".
+You can find a link to the practice problem source files at the top of the homepage. The link reads "PSETs". When you hover over it, a message appears saying, "A folder containing blank copies of all practice problem sets."
 
 ### **How can I see what the agenda for the next class is?**
 
-On the [Admin Info](https://mottaquikarim.github.io/pycontent/#in/intro/admin_info) page, you will find a list of lecture topics with dates. *This is a living list* based on how much material we cover in each class.
+On the homepage, you will find a list of lecture topics with dates. *This is a living list* based on how much material we cover in each class.
 
 ### **How does Colab work?**
 
@@ -30,12 +30,12 @@ When you open them, make a copy for yourself. You can do this by going to File >
 
 Homework will be announced during class and on Slack every week.
 
-Also, you can go to the [Homework](https://mottaquikarim.github.io/pycontent/#in/homework) section to see a list of each homework assignment, the day it was assigned, and its due date. Typically, each assignment is due at 6pm on the day of the next class.
+Also, you can go to the [Homework](https://mottaquikarim.github.io/pycontent/#in/homework) section in the hamburger nav to see a list of each homework assignment and its due date. Typically, assignments are due at midnight on Tuesdays.
 
 ### **How and when will we receive feedback on our work?**
 
-1. You can also get feedback on homework or special questions if and when you come to office hours.
-3. For your project, you can get feedback by coming to office hours. Pending availability, your IA will be happy to schedule extra virtual office hours (conducted on Google Hangouts).
+1. You can get feedback on homework or special questions if and when you come to office hours.
+2. For your project, you can get feedback by coming to office hours. Pending availability, your IA will be happy to schedule extra virtual office hours (conducted on Google Hangouts).
 
 ### **How can I contact my instructor and/or IA?**
 
@@ -43,7 +43,7 @@ Also, you can go to the [Homework](https://mottaquikarim.github.io/pycontent/#in
 
 ### **When are office hours?**
 
-Office hours will be **Tuesday evening from 8:30-9:30pm.**
+Office hours will be **Tuesday evenings from 8:30-9:30pm.**
 
 ### **Where can I find MORE practice problems?**
 
