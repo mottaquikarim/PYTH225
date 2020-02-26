@@ -6,17 +6,13 @@
 
 ### **How do I submit my homework?**
 
-In Github, create a repository called `homework_submissions`.
+In Github, create a repository called `homework_submissions` by going to [https://github.com/new](https://github.com/new). Make sure you **check the box to "Initialize this repository with a README"**.
 
-Complete assignment in Colab. Then, click File > Save a Copy to Github. Choose `homework_submissions` repository.
+Complete assignment in Colab. Then, go to File > Save a Copy to Github. In the "Repository" dropdown, choose `homework_submissions`. The file path should simply be the file name.
 
 DM both **your instructor and IA** in the same message with your Github repo URL.
 
-???
-
-Profit.
-
-### ****Where are all the practice problems?**
+### **Where are all the practice problems?**
 
 You can find a link to the practice problem source files and how to use them on the [Admin Info](https://mottaquikarim.github.io/pycontent/#in/intro/admin_info) page under the section named "Practice Problem Source Files".
 
