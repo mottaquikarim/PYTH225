@@ -5,8 +5,8 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | Lecture #  | Date | Links |
 | ------------- | ------------- | ------------- |
 | 1  | February 25th  | 🎉[Intro Deck](https://mottaquikarim.github.io/rehearsal/public/stage.html?source=o66ry#/), [Tools](#out/intro/tools), [Essential Terminology](#out/topics/essential_terminology) |
-| 2  | February 27th  | [Basic Data Types](#out/topics/basic_data_types), [Modules](#out/topics/modules) |
-| 3  | March 3rd  | [Conditionals](#out/topics/conditionals) |
+| 2  | February 27th  | [Basic Data Types](#out/topics/basic_data_types), [String Formatting](https://mottaquikarim.github.io/PYTH225/#out/topics/string_formatting) |
+| 3  | March 3rd  | [Modules](#out/topics/modules), [Conditionals](#out/topics/conditionals) |
 | 4  | March 5th  | [Lists](#out/topics/lists) |
 | 5  | March 10th  | [Loops](#out/topics/loops) |
 | 6  | March 12th  | [Dicts](#out/topics/dicts) |
