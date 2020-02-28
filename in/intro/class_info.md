@@ -17,10 +17,10 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 11  | March 31st | [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
 | 12  | April 2nd | [Final project intro](#out/intro/project_info), [Data Wrangling](#out/topics/wrangling1) |
 | 13  | April 7th | [Data Cleaning](#out/topics/data_cleaning) |
-| 14  | April 9th | [Q&A on wrangling_psets](), [EDA (Exploratory Data Analysis)](#out/topics/eda) |
+| 14  | April 9th | [EDA (Exploratory Data Analysis)]() |
 | 15  | April 14th | [Titanic Lab Parts 1 & 2](https://colab.research.google.com/drive/1HfmvsPl4nZvrrSOtOPFQPntgJ9KzmG51) |
 | -  | **April 16th**  | **NO CLASS**: Taq to speak at [DevOpsDays Toronto](https://whova.com/embedded/speaker_session_detail/devop_202004/917388/) |
-| 16  | April 21st | [Titanic Lab Parts 2 & 3](https://colab.research.google.com/drive/1HfmvsPl4nZvrrSOtOPFQPntgJ9KzmG51), Open Questions on Data Wrangling/Analysis, [Data Visualizations]() |
+| 16  | April 21st | [Titanic Lab Parts 2 & 3](https://colab.research.google.com/drive/1HfmvsPl4nZvrrSOtOPFQPntgJ9KzmG51), [Data Visualizations]() |
 | 17  | April 23rd | [Terminal Commands Deep Dive](https://show.zohopublic.com/publish/jjd2u23f766e888414dcaac530e14258b978a) (Lecture from my grad class) |
 | 18  | April 28th | Github Basics, Web Scraping 101, Final Project final questions |
 | 19  | April 30th | **Final presentations!** |
