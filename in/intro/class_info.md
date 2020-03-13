@@ -8,11 +8,11 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 2  | February 27th  | [Basic Data Types](#out/topics/basic_data_types), [String Formatting](https://mottaquikarim.github.io/PYTH225/#out/topics/string_formatting) |
 | 3  | March 3rd  | [Modules](#out/topics/modules), [Conditionals](#out/topics/conditionals) |
 | 4  | March 5th  | [Lists](#out/topics/lists) |
-| 5  | March 10th  | [Tuples & Sets](https://mottaquikarim.github.io/PYTH225/#out/topics/tuples_sets), [Loops](#out/topics/loops) |
-| 6  | March 12th  | [Dicts](#out/topics/dicts) |
-| 7  | March 17th  | [Functions](#out/topics/functions) |
-| 8  | March 19th  | [Classes 1](#out/topics/classes) |
-| 9  | March 24th  | [Classes 2](#out/topics/classes) |
+| 5  | March 10th  | [Tuples & Sets](https://mottaquikarim.github.io/PYTH225/#out/topics/tuples_sets) |
+| 6  | March 12th  | [Loops](#out/topics/loops) |
+| 7  | March 17th  | [Loops](#out/topics/loops) (cont'd) |
+| 8  | March 19th  | [Dicts](#out/topics/dicts), [Functions](#out/topics/functions) (time permitting) |
+| 9  | March 24th  | [Classes](#out/topics/classes) |
 | 10  | March 26th  | [Build Pandas from Scratch Together!](https://colab.research.google.com/drive/1gU5_KvdqLMhzRpF7BRA9N36FlDgxnqQk) |
 | 11  | March 31st | [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
 | 12  | April 2nd | [Final project intro](#out/intro/project_info), [Data Wrangling](#out/topics/wrangling1) |
