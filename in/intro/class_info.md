@@ -12,11 +12,11 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 6  | March 12th  | [Loops](#out/topics/loops) |
 | 7  | March 17th  | [Loops](#out/topics/loops) (cont'd) |
 | 8  | March 19th  | [Dicts](#out/topics/dicts), [Functions](#out/topics/functions) (time permitting) |
-| 9  | March 24th  | [Classes](#out/topics/classes) |
-| 10  | March 26th  | [Build Pandas from Scratch Together!](https://colab.research.google.com/drive/1gU5_KvdqLMhzRpF7BRA9N36FlDgxnqQk) |
-| 11  | March 31st | [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
-| 12  | April 2nd | [Final project intro](#out/intro/project_info), [Data Wrangling](#out/topics/wrangling1) |
-| 13  | April 7th | [Data Cleaning](#out/topics/data_cleaning) |
+| 9  | March 24th  | [Functions](#out/topics/functions) practice |
+| 10  | March 26th  | [Classes](#out/topics/classes)  |
+| 11  | March 31st | [Classes](#out/topics/classes) 2, [Build Pandas from Scratch Together!](https://colab.research.google.com/drive/1gU5_KvdqLMhzRpF7BRA9N36FlDgxnqQk)   |
+| 12  | April 2nd | [Final project intro](#out/intro/project_info), [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
+| 13  | April 7th |  [Data Wrangling](#out/topics/wrangling1), [Data Cleaning](#out/topics/data_cleaning) |
 | 14  | April 9th | [EDA (Exploratory Data Analysis)]() |
 | 15  | April 14th | [Titanic Lab Parts 1 & 2](https://colab.research.google.com/drive/1HfmvsPl4nZvrrSOtOPFQPntgJ9KzmG51) |
 | -  | **April 16th**  | **NO CLASS**: Taq to speak at [DevOpsDays Toronto](https://whova.com/embedded/speaker_session_detail/devop_202004/917388/) |
