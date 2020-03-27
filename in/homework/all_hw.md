@@ -2,6 +2,17 @@
 
 [How to submit homework](#out/intro/faq)
 
+
+### HW4 - Due 4/7/2020
+**TENTATIVE**
+
+* Finish the problems in your copy of the functions_psets.ipynb. **ALL problems**
+
+### HW4 - Due 3/31/2020
+**TENTATIVE**
+
+* Finish the problems in your copy of the dicts_psets.ipynb. **ALL problems**
+
 ### HW3 - Due 3/24/2020
 **TENTATIVE**
 
