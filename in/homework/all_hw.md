@@ -3,12 +3,15 @@
 [How to submit homework](#out/intro/faq)
 
 
-### HW4 - Due 4/7/2020
-**TENTATIVE**
+### HW7 - Due 4/9/2020
+
+* Problems in `classes_psets.ipynb`, Vehicles P5 and P6, Wedding Guests P1 and P2
+
+### HW6 - Due 4/7/2020
 
 * Finish the problems in your copy of the functions_psets.ipynb. **ALL problems**
 
-### HW4 - Due 3/31/2020
+### HW5 - Due 3/31/2020
 **TENTATIVE**
 
 * Finish the problems in your copy of the dicts_psets.ipynb. **ALL problems**
