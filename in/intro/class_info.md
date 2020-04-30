@@ -23,7 +23,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 17  | April 21st | [Titanic Lab Parts 1 & 2](https://colab.research.google.com/drive/1HfmvsPl4nZvrrSOtOPFQPntgJ9KzmG51) |
 | 18  | April 23rd | [Titanic Lab Parts 2 & 3](https://colab.research.google.com/drive/1HfmvsPl4nZvrrSOtOPFQPntgJ9KzmG51), [Data Visualizations]() |
 | 19  | April 28th | Final Project Final Questions, [Terminal Commands Deep Dive](https://show.zohopublic.com/publish/jjd2u23f766e888414dcaac530e14258b978a) (Lecture from my grad class) |
-| 20  | April 30th | **Final Presentations!** |
+| 20  | April 30th | **[Final Presentations!](#in/intro/final.md)** |
 
 <br/><br/>
 
